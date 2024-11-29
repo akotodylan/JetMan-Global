@@ -53,5 +53,5 @@ Aviation accident tend to occur often among the most busy services, like, busine
 
 ## For Inquiries, Business Proposals and Additional Information
 
-The analysis process is available in this [notebook](https://github.com/akotodylan/JetMan-Global/blob/main/flight.ipynb) and an [interactive tableau dashboard]()
+The analysis process is available in this [notebook]() and an [interactive tableau dashboard]()
 
